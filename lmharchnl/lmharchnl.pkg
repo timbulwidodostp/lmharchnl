@@ -1,0 +1,5 @@
+D 'lmharchnl': NLS (Nonlinear Least Squares) Heteroscedasticity Engle (ARCH) Test Use lmharchnl With STATA 19
+D
+F lmharchnl.ado
+F lmharchnl.dlg
+F lmharchnl.sthlp
