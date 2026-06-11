@@ -1,6 +1,8 @@
 # lmharchnl
 NLS (Nonlinear Least Squares) Heteroscedasticity Engle (ARCH) Test Use lmharchnl With STATA 19
 
+https://www.youtube.com/watch?v=9k7W4SzBsZw
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
